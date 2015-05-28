@@ -164,7 +164,9 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
       <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
@@ -188,7 +190,7 @@
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.9.2, ruby-2.1.5-p273) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.0.1, ruby-2.1.5-p273) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, ruby-2.1.5-p273) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.9.1.1, ruby-2.1.5-p273) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.8.0, ruby-2.1.5-p273) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, ruby-2.1.5-p273) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.5.2, ruby-2.1.5-p273) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.3, ruby-2.1.5-p273) [gem]" level="application" />
